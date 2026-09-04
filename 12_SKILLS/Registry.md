@@ -6,8 +6,8 @@
 |---|---:|---|---|---|---|
 | [[Архитектор навыков ЯСНО]] | 2.0 | ACTIVE | META | PROPOSE | P0 |
 | [[Second_Brain_v2]] | 2.0 | ACTIVE | KNOWLEDGE | CONTROLLED WRITE | P0 |
-| Оркестратор ЯСНО | — | PLANNED | ORCHESTRATION | TBD | P1 |
-| CEO / Стратег | — | PLANNED | MANAGEMENT | PROPOSE | P0 |
+| [[Orchestrator_v1]] | 1.0 | TESTING | ORCHESTRATION | READ | P1 |
+| [[CEO_Strategist_v1]] | 1.0 | TESTING | MANAGEMENT | PROPOSE | P0 |
 | CFO | — | PLANNED | MANAGEMENT | PROPOSE | P0 |
 | CMO / Growth | — | PLANNED | MANAGEMENT | PROPOSE | P0 |
 | Head of Sales | — | PLANNED | MANAGEMENT | PROPOSE | P0 |
